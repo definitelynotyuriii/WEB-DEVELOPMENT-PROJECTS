@@ -1,0 +1,8 @@
+body{
+  background-color: #0f172a;
+}
+table, tr, th, td{
+  border-width: 1px;
+  border-color: #0f172a;
+  border-style: solid;
+}
